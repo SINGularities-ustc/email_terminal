@@ -17,6 +17,12 @@
         "title": "Contrato n22",
         "body": "Sector: X11.  Objective: Investigate the sewers and report only to me.  Reward: 22 MCr."
     },
+     {
+        "from": "Lucy Bates",
+        "to": ["X"],
+        "title": "!secret! the kidnapper's identifictaion",
+        "body": "George Lewston,a formal ATF employee"
+    },
     {
         "from": "Mike",
         "to": ["admin"],

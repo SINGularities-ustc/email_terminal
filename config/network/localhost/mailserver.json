@@ -18,10 +18,10 @@
         "body": "Sector: X11.  Objective: Investigate the sewers and report only to me.  Reward: 22 MCr."
     },
      {
-        "from": "Lucy Bates",
-        "to": ["X"],
-        "title": "!secret! the kidnapper's identifictaion",
-        "body": "George Lewston,a formal ATF employee测试中文"
+        "from": "露西·贝茨",
+        "to": ["X","victoria rain"],
+        "title": "【抄送】来自法医鉴定的死者身份报告",
+        "body": "法医通过比对人脸和DNA的报告显示死者名为乔治·刘易斯顿，是前A.T.F.员工，在那之后都无业，他几年前从A.T.F.离职后的居住地就在克利夫兰市城区。"
     },
     {
         "from": "Mike",

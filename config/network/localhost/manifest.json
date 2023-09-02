@@ -1,6 +1,6 @@
 {
     "serverAddress": "localhost",
-    "serverName": "FBI investigation database",
+    "serverName": "FBI Investigation Database",
     "iconName": "fbi.png",
     "terminalID": "Y56",
     "defaultUser": {
